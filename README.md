@@ -21,7 +21,7 @@ Spring MVC Hibernate example also uses jsp, mysql and bootstrap.
 1. Download and install Spring Tool Suite http://spring.io/tools/sts
 2. Download and install Git http://git-scm.com/downloads
 3. Open STS and create a workspace
-4. Navigate to the workspace folder (terminal or cmd) and run the Git command git clonehttps://github.com/msavur/springmvc-hibernate-jsp-mysql-crud.git
+4. Navigate to the workspace folder (terminal or cmd) and run the Git command git clone https://github.com/msavur/springmvc-hibernate-jsp-mysql-crud.git
 5. Click File -> Import -> General -> Existing Project into Workspace
 6. Click Browse navigate to the workspace and select the springmvc-hibernate-example folder
 7. Click finish
