@@ -44,3 +44,8 @@ database.password=1
 #Deploy
 Right click on the project Run As -> Run On Server -> Click Finish 
 
+If you have any query, feel free to contact me.
+
+ Website: www.javasavur.com
+ 
+ Email: mahmutsavur@gmail.com
